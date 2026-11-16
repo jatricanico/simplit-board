@@ -9,7 +9,7 @@ the device identity and the update channel.
 ## Install
 
 ```
-pipx install git+https://github.com/santiamoretti/simplit-board.git
+pipx install git+https://github.com/jatricanico/simplit-board.git
 ```
 
 Use **pipx**, not `pip install --user`. An older setuptools builds this project into a wheel named
